@@ -86,11 +86,13 @@ img{
 .container-2 .row .tarrif p{
     margin-top: 20px;
     font-size: 17px;
+    color: #3c474e;
 }
 .container-2 .row .tarrif .para{
     font-size: 17px;
     line-height: 1.5;
     padding-right: 10px;
+    color: #3c474e;
 }
 .container-2 .row .tarrif h4:hover{
     color: #bb976d;
@@ -444,11 +446,13 @@ img{
     .container-2 .row .tarrif p{
         margin-top: 15px;
         font-size: 17px;
+        color: #3c474e;
     }
     .container-2 .row .tarrif .para{
         font-size: 17px;
         line-height: 1.5;
         padding-right: 10px;
+        color: #3c474e;
     }
     .container-2 .row .tarrif h4:hover{
         color: #bb976d;
@@ -837,11 +841,13 @@ img{
     .container-2 .row .tarrif p{
         margin-top: 20px;
         font-size: 17px;
+        color: #3c474e;
     }
     .container-2 .row .tarrif .para{
         font-size: 17px;
         line-height: 1.5;
         padding-right: 10px;
+        color: #3c474e;
     }
     .container-2 .row .tarrif h4:hover{
         color: #bb976d;
